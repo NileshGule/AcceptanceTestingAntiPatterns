@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="127FD389-4259-4C1B-954F-22AFA26489C0" ModuleId="AntiPattern1.FitnesseFixtures" />
+  <Module PersistentId="A36290E7-25EE-4803-8CBE-DF814D36F1FB" ModuleId="UserManagement.Silverlight" />
+  <Module PersistentId="686FF83B-AD15-49BC-AADB-EF18A2971DFE" ModuleId="UserManagement.Silverlight.Web" />
+  <Module PersistentId="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D" ModuleId="UserManagementServices" />
+  <Module PersistentId="864E6520-6D55-4157-8A8F-475FBF6CAE20" ModuleId="UserManagement.WPF" />
+  <Module PersistentId="9DAEB904-4281-486B-8052-8B301C8569C3" ModuleId="UserManagement.Silverlight.UnitTest" />
+</Modules>

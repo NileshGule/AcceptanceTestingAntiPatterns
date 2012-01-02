@@ -1,0 +1,8 @@
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\bin\Debug\AntiPattern1.FitnesseFixtures.dll.config
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\bin\Debug\AntiPattern1.FitnesseFixtures.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\bin\Debug\AntiPattern1.FitnesseFixtures.pdb
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\bin\Debug\UserManagementServices.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\bin\Debug\UserManagementServices.pdb
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\obj\Debug\AntiPattern1.FitnesseFixtures.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\AntiPattern1.FitnesseFixtures\obj\Debug\AntiPattern1.FitnesseFixtures.pdb

@@ -1,0 +1,14 @@
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\bin\Debug\UserManagement.WPF.exe.config
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\bin\Debug\UserManagement.WPF.exe
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\bin\Debug\UserManagement.WPF.pdb
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\MainWindow.baml
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\MainWindow.g.cs
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\App.g.cs
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\UserManagement.WPF_MarkupCompile.cache
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\UserManagement.WPF.g.resources
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\UserManagement.WPF.Properties.Resources.resources
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\UserManagement.WPF.exe
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.WPF\obj\x86\Debug\UserManagement.WPF.pdb

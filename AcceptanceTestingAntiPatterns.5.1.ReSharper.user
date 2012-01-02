@@ -1,0 +1,181 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D/f:IUserManagementService.cs" caret="102" fromTop="4" />
+      <File id="686FF83B-AD15-49BC-AADB-EF18A2971DFE/f:UserManagementExposedService.svc.cs" caret="678" fromTop="20" />
+      <File id="686FF83B-AD15-49BC-AADB-EF18A2971DFE/f:UserManagementExposedService.svc" caret="166" fromTop="1" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/f:ServiceReferences.ClientConfig" caret="15" fromTop="0" />
+      <File id="686FF83B-AD15-49BC-AADB-EF18A2971DFE/f:Web.config" caret="288" fromTop="12" />
+      <File id="127FD389-4259-4C1B-954F-22AFA26489C0/f:App.config" caret="157" fromTop="8" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/f:MainPage.xaml.cs" caret="261" fromTop="13" />
+      <File id="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D/d:DataTransferObjects/f:UserDto.cs" caret="207" fromTop="8" />
+      <File id="864E6520-6D55-4157-8A8F-475FBF6CAE20/f:MainWindow.xaml.cs" caret="404" fromTop="14" />
+      <File id="864E6520-6D55-4157-8A8F-475FBF6CAE20/f:MainWindow.xaml" caret="573" fromTop="21" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/f:MainPage.xaml" caret="0" fromTop="0" />
+      <File id="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D/f:UserManagementService.cs" caret="459" fromTop="14" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml" caret="1643" fromTop="25" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="690" fromTop="24" />
+      <File id="9DAEB904-4281-486B-8052-8B301C8569C3/f:Tests.cs" caret="375" fromTop="12" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:ViewModel/f:UserViewModel.cs" caret="453" fromTop="21" />
+      <File id="127FD389-4259-4C1B-954F-22AFA26489C0/f:UserFixture.cs" caret="176" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/f:MainPage.xaml.cs" caret="269" fromTop="18" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="440" fromTop="15" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="618" fromTop="19" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/f:MainPage.xaml.cs" caret="269" fromTop="14" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/f:MainPage.xaml.cs" caret="263" fromTop="13" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="206" fromTop="7" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml" caret="1820" fromTop="12" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml" caret="1820" fromTop="12" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml" caret="1780" fromTop="23" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml" caret="1639" fromTop="26" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml" caret="1366" fromTop="16" />
+      <File id="864E6520-6D55-4157-8A8F-475FBF6CAE20/f:MainWindow.xaml.cs" caret="378" fromTop="14" />
+      <File id="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D/f:UserManagementService.cs" caret="903" fromTop="20" />
+      <File id="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D/d:DataTransferObjects/f:UserDto.cs" caret="209" fromTop="8" />
+      <File id="1B2ACA16-486F-4CE3-ADAE-C2C9A7C0974D/f:UserManagementService.cs" caret="647" fromTop="14" />
+      <File id="864E6520-6D55-4157-8A8F-475FBF6CAE20/f:MainWindow.xaml" caret="440" fromTop="14" />
+      <File id="864E6520-6D55-4157-8A8F-475FBF6CAE20/f:MainWindow.xaml" caret="532" fromTop="18" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="0" fromTop="0" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:ViewModel/f:UserViewModel.cs" caret="0" fromTop="0" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="1149" fromTop="29" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:ViewModel/f:UserViewModel.cs" caret="624" fromTop="25" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:ViewModel/f:UserViewModel.cs" caret="588" fromTop="25" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:Views/f:Home.xaml.cs" caret="959" fromTop="30" />
+      <File id="A36290E7-25EE-4803-8CBE-DF814D36F1FB/d:ViewModel/f:UserViewModel.cs" caret="314" fromTop="13" />
+      <File id="127FD389-4259-4C1B-954F-22AFA26489C0/f:UserFixture.cs" caret="857" fromTop="22" />
+      <File id="127FD389-4259-4C1B-954F-22AFA26489C0/f:UserFixture.cs" caret="417" fromTop="12" />
+      <File id="9DAEB904-4281-486B-8052-8B301C8569C3/f:Tests.cs" caret="0" fromTop="0" />
+      <File id="9DAEB904-4281-486B-8052-8B301C8569C3/f:Tests.cs" caret="692" fromTop="23" />
+      <File id="9DAEB904-4281-486B-8052-8B301C8569C3/f:Tests.cs" caret="318" fromTop="11" />
+      <File id="9DAEB904-4281-486B-8052-8B301C8569C3/f:Tests.cs" caret="807" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="int" priority="6" />
+      <Item value="_initialValue" priority="0" />
+      <Item value="public" priority="11" />
+      <Item value="string" priority="9" />
+      <Item value="void" priority="0" />
+      <Item value="UserFixture`0" priority="0" />
+      <Item value="object" priority="3" />
+      <Item value="return" priority="4" />
+      <Item value="new" priority="16" />
+      <Item value="List&lt;object&gt;" priority="0" />
+      <Item value="UserDto" priority="2" />
+      <Item value="Id" priority="2" />
+      <Item value="value" priority="0" />
+      <Item value="UserName" priority="0" />
+      <Item value="User" priority="0" />
+      <Item value="FirstName" priority="1" />
+      <Item value="LastName" priority="1" />
+      <Item value="domainUser" priority="3" />
+      <Item value="userId" priority="1" />
+      <Item value="UserManagementService" priority="6" />
+      <Item value="service" priority="3" />
+      <Item value="UserManagementService`0" priority="3" />
+      <Item value="userdetails" priority="3" />
+      <Item value="UserManagementServiceClient`0" priority="1" />
+      <Item value="userManagementServiceClient" priority="1" />
+      <Item value="UserManagementServiceClient" priority="0" />
+      <Item value="UserManagementServices" priority="1" />
+      <Item value="UserManagement" priority="1" />
+      <Item value="UserManagementExposedServiceClient`0" priority="1" />
+      <Item value="UserManagementExposedServiceClient" priority="1" />
+      <Item value="client" priority="5" />
+      <Item value="Loaded" priority="0" />
+      <Item value="ServiceReference1" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="args" priority="0" />
+      <Item value="userDto" priority="1" />
+      <Item value="UserViewModel" priority="1" />
+      <Item value="_userDto" priority="2" />
+      <Item value="DataContext" priority="0" />
+      <Item value="viewModel" priority="1" />
+      <Item value="UserDto`0" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="result" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagementService.DomainObjects.User">
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="1" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagementService.UserManagementService">
+      <Item value="GetUserdetails`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagementService.DataTransferObjects.UserDto">
+      <Item value="Id" priority="0" />
+      <Item value="UserName" priority="0" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AntiPattern1.FitnesseFixtures.UserManagementServices.UserManagementServiceClient">
+      <Item value="GetUserdetails`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagementServices.UserManagementService">
+      <Item value="GetUserdetails`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AntiPattern1.FitnesseFixtures.UserManagement.UserManagementExposedServiceClient">
+      <Item value="DoWork`0" priority="0" />
+      <Item value="GetUserdetails`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AntiPattern1.FitnesseFixtures.ServiceReference1.UserManagementExposedServiceClient">
+      <Item value="GetUserdetails`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.Silverlight.ServiceReference1.UserManagementExposedServiceClient">
+      <Item value="GetUserdetailsCompleted" priority="1" />
+      <Item value="GetUserdetailsAsync`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.Silverlight.ServiceReference1.GetUserdetailsCompletedEventArgs">
+      <Item value="Result" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.WPF.ServiceReference1.UserManagementExposedServiceClient">
+      <Item value="GetUserdetails`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.WPF.MainWindow">
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.Silverlight.Home">
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.Silverlight.ServiceReference1.UserDto">
+      <Item value="Id" priority="0" />
+      <Item value="UserName" priority="0" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserManagement.Silverlight.ViewModel.UserViewModel">
+      <Item value="UserName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

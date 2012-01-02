@@ -1,0 +1,7 @@
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\bin\UserManagement.Silverlight.Web.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\bin\UserManagement.Silverlight.Web.pdb
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\bin\UserManagementServices.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\bin\UserManagementServices.pdb
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\obj\Debug\UserManagement.Silverlight.Web.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagement.Silverlight.Web\obj\Debug\UserManagement.Silverlight.Web.pdb

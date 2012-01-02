@@ -1,0 +1,18 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <customBinding>
+                <binding name="CustomBinding_UserManagementExposedService">
+                    <binaryMessageEncoding />
+                    <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+                </binding>
+            </customBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:18244/UserManagementExposedService.svc"
+                binding="customBinding" bindingConfiguration="CustomBinding_UserManagementExposedService"
+                contract="ServiceReference1.UserManagementExposedService"
+                name="CustomBinding_UserManagementExposedService" />
+        </client>
+    </system.serviceModel>
+</configuration>

@@ -1,0 +1,5 @@
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagementServices\bin\UserManagementServices.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagementServices\bin\UserManagementServices.pdb
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagementServices\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagementServices\obj\Debug\UserManagementServices.dll
+E:\Nilesh\Projects\AcceptanceTestingAntiPatterns\UserManagementServices\obj\Debug\UserManagementServices.pdb
